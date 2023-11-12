@@ -16,7 +16,6 @@ Exercícios de fixação do programa de formação despertar dev da GROWDEV.
 https://dionei-silva.github.io/Atividade-pratica-Objetos-e-arrays-2/
 - Irá aparecer um Button com o direcionamento para a resolução dos desafios
 - Alguns desafios estão no console e outros na própria página HTML
-- Desafio 6 e 7 são ‘alerts’ para acesso a pagina 
 
 ## Contribuidores
 
